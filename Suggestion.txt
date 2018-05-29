@@ -1,0 +1,7 @@
+Suggestions for Improvement
+
+1. Create an API that can do a multiple calculation in one time.
+2. Better validation in parameters (e.g. can use relative paths, etc.)
+3. Create a function / using the library that can push the hardware limitation during the calculation. 
+For now, the calculation still quite slow.
+ 
